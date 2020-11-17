@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-I've no clue what to write here, but so as to meet the minimal requirements I need to write _something_, so I'll just write about how I don't konw what to write.
+I've no clue what to write here, but so as to meet the minimal requirements I need to write _something_, so I'll just write about how I don't know what to write.
 
 ### Classic
 ```
