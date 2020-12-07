@@ -1,4 +1,4 @@
-## About me
+# About me
 I'm currently working on 'Physicis's Toolbox', program created to help with simple physics calculations. It's a college asignment project
 # Physicist's Toolbox
 It's a simple physics calculator. Provides help with many different physics fields. Simple, intuitive interface. No need to know any physics to use it.
