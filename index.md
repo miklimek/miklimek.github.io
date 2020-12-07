@@ -1,18 +1,12 @@
-## Welcome to my GitHub Pages
-
-I've no clue what to write here, but so as to meet the minimal requirements I need to write _something_, so I'll just write about how I don't know what to write.
-
-### Classic
-```
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!";
-    return 0;
-}
-```
-### Conclusions
-Hopefully this is enough to satisfy you. Feel free to bask in the emptiness of this page however long you wish for and have a nice day.
-
-
+## About me
+* I'm currently working on 'Physicis's Toolbox', program created to help with simple physics calculations. It's a college asignment project
+# Physicist's Toolbox
+It's a simple physics calculator. Provides help with many different physics fields. Simple, intuitive interface. No need to know any physics to use it.
+## For more information please check out our project [documentation](https://github.com/AGH-Narzedzia-Informatyczne/Physicist-s-Toolbox/wiki)
+#### There you will find:
+* what is its purpose
+* what inspired us
+* how to use it and how it works
+* technologies used
+* successes and failures
+* future plans
